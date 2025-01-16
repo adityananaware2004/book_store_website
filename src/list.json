@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Book 1",
+        "title": "Assets in public directory cannot be imported from JavaScript.",
+        "price": 100 , 
+        "category": "song",
+        "image": "https://img.freepik.com/premium-vector/teachers-day-celebrations-recognizing-vital-role-educators_136558-82183.jpg?w=2000"
+
+    },
+    {
+        "id": 2,
+        "name": "Book 2",
+        "title": "Assets in public directory cannot be imported from JavaScript.",
+        "price": 100 , 
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/teachers-day-celebrations-recognizing-vital-role-educators_136558-82183.jpg?w=2000"
+
+    },
+    {
+        "id": 3,
+        "name": "Book 3",
+        "title": "Assets in public directory cannot be imported from JavaScript.",
+        "price": 2100 , 
+        "category": "music book",
+        "image": "https://img.freepik.com/premium-vector/teachers-day-celebrations-recognizing-vital-role-educators_136558-82183.jpg?w=2000"
+
+    },
+    {
+        "id": 4,
+        "name": "Book 4",
+        "title": "Assets in public directory cannot be imported from JavaScript.",
+        "price": 2100 , 
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/teachers-day-celebrations-recognizing-vital-role-educators_136558-82183.jpg?w=2000"
+
+    },
+    {
+        "id": 5,
+        "name": "Book 5",
+        "title": "Assets in public directory cannot be imported from JavaScript.",
+        "price": 0 , 
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/teachers-day-celebrations-recognizing-vital-role-educators_136558-82183.jpg?w=2000"
+
+    },
+    {
+        "id": 6,
+        "name": "Book 6",
+        "title": "Assets in public directory cannot be imported from JavaScript.",
+        "price": 0 , 
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/teachers-day-celebrations-recognizing-vital-role-educators_136558-82183.jpg?w=2000"
+
+    },
+    {
+        "id": 7,
+        "name": "Book 7",
+        "title": "Assets in public directory cannot be imported from JavaScript.",
+        "price": 100 , 
+        "category": "food",
+        "image": "https://img.freepik.com/premium-vector/teachers-day-celebrations-recognizing-vital-role-educators_136558-82183.jpg?w=2000"
+
+    },
+    {
+        "id": 8,
+        "name": "Book 8",
+        "title": "Assets in public directory cannot be imported from JavaScript.",
+        "price": 100 , 
+        "category": "food",
+        "image": "https://img.freepik.com/premium-vector/teachers-day-celebrations-recognizing-vital-role-educators_136558-82183.jpg?w=2000"
+
+    }
+]

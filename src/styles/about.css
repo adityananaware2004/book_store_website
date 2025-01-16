@@ -1,0 +1,44 @@
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.book-container {
+  position: relative;
+  transform-style: preserve-3d;
+  animation: float 6s ease-in-out infinite;
+}
+
+.book-side {
+  position: absolute;
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+}
+
+.translate-z-25 {
+  transform: translateZ(25px);
+}
+
+.-translate-z-25 {
+  transform: translateZ(-25px);
+}
+
+.rotate-y-90 {
+  transform: rotateY(90deg);
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0) rotateY(-15deg);
+  }
+  50% {
+    transform: translateY(-20px) rotateY(15deg);
+  }
+}
+
+.book-container:hover {
+  animation-play-state: paused;
+} 
